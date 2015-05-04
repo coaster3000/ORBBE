@@ -1,0 +1,26 @@
+{
+    "name": "bbcode",
+    "version": "0.0.0",
+    "description": "A special web based bbcode editor, that allows previewing bbcode and html together.",
+    "keywords": [
+        "editor",
+        "bbcode",
+        "webbased"
+    ],
+    "authors": [
+        "Christopher Krier <ckrier.3000@gmail.com>"
+    ],
+    "license": "MIT",
+    "homepage": "coaster3000.tk",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ],
+    "dependencies": {
+        "ckeditor": "~4.4.7",
+        "jquery": "~2.1.4"
+    }
+}

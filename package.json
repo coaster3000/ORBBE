@@ -1,0 +1,30 @@
+{
+  "name": "bbcode",
+  "version": "0.0.0",
+  "description": "A special web based bbcode editor, that allows previewing bbcode and html together.",
+  "author": "Christopher Krier <ckrier.3000@gmail.com>",
+  "contributors": [],
+  "devDependencies": {
+    "bower": "^1.4.1",
+    "grunt": "^0.4.5",
+    "grunt-contrib-concat": "^0.5.1",
+    "grunt-bower": "^0.18.0"
+  },
+  "keywords": [
+    "editor",
+    "bbcode",
+    "webbased"
+  ],
+  "authors": [
+    "Christopher Krier <ckrier.3000@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "http://coaster3000.tk",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
