@@ -1,4 +1,6 @@
-=== LWBBCE ===
+LWBBCE
+======
+
 Is short for Live Web BBCode Editor,
 It provides a way to live edit and preview your bbcode as you type. Providing options to parse html and more.
 
