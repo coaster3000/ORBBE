@@ -12,5 +12,4 @@ bower_components
 node_modules/
 
 ### Project Specific ###
-ckeditor/
-jquery/
+lib/
